@@ -34,6 +34,12 @@ body {
   overflow-x: hidden;
 }
 
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
 button,
 input,
 textarea {
@@ -1062,6 +1068,7 @@ a {
   margin: 8px 0 0;
   color: var(--text-soft);
   font-size: 1rem;
+  overflow-wrap: anywhere;
 }
 
 .contact-card {
@@ -1988,6 +1995,14 @@ body {
     grid-template-columns: 1fr;
   }
 
+  .contact-copy {
+    text-align: center;
+  }
+
+  .contact-meta-item {
+    justify-content: center;
+  }
+
   .hero-copy h1 {
     max-width: 100%;
   }
@@ -2053,6 +2068,12 @@ body {
     font-size: 0.92rem;
   }
 
+  .eyebrow.contact-eyebrow {
+    margin: -18px auto 14px;
+    padding: 14px 34px;
+    font-size: 1.05rem;
+  }
+
   .container,
   .mobile-panel {
     width: min(100% - 24px, 100%);
@@ -2087,6 +2108,11 @@ body {
 
   .hero-actions {
     flex-direction: column;
+  }
+
+  .hero-actions .primary-button,
+  .hero-actions .secondary-button {
+    width: 100%;
   }
 
   .hero-stats-grid,
