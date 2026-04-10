@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.claimhorizon.co.in/sitemap.xml
+Sitemap: https://claimhorizon.co.in/sitemap.xml
