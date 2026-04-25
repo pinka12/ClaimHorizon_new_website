@@ -686,7 +686,7 @@ export default function App() {
                   </div>
                   <div>
                     <h3>Direct Contact</h3>
-                    <p>Available Mon-Sat, 9 AM - 6 PM IST</p>
+                    <p> +91 7300056110 , 7300046238. Available Mon-Sat, 9 AM - 6 PM IST</p>
                   </div>
                 </div>
               </div>
