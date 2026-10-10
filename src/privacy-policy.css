@@ -1,0 +1,160 @@
+.privacy-page {
+  padding: clamp(32px, 5vw, 72px) 0 clamp(56px, 7vw, 96px);
+  font-family: inherit;
+}
+
+.privacy-container {
+  max-width: 1060px;
+}
+
+.privacy-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--brand-blue);
+  font-weight: 700;
+  padding: 8px 0;
+}
+
+.privacy-heading {
+  margin: 32px 0;
+}
+
+.privacy-heading .eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.privacy-heading h1 {
+  color: var(--brand-blue-deep);
+  font-family: "Cormorant Garamond", serif;
+  font-size: clamp(3.25rem, 5.6vw, 4.8rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+  margin: 20px 0 28px;
+}
+
+.privacy-document {
+  background: #fff;
+  border: 1px solid var(--card-stroke);
+  border-radius: 24px;
+  box-shadow: var(--card-shadow);
+  padding: clamp(20px, 4vw, 52px);
+  color: #42516b;
+  font-size: clamp(1.12rem, 1.5vw, 1.25rem);
+  line-height: 1.85;
+  overflow-wrap: anywhere;
+}
+
+.privacy-document p {
+  margin: 0 0 16px;
+}
+
+.privacy-document a {
+  color: var(--brand-blue);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.privacy-contents {
+  background: #f4f8ff;
+  border: 1px solid #cfe0fb;
+  border-radius: 14px;
+  padding: 16px 20px;
+  margin: 28px 0 36px;
+}
+
+.privacy-contents summary {
+  color: var(--brand-blue-deep);
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.privacy-contents nav {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px 24px;
+  margin-top: 20px;
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+
+.privacy-section + .privacy-section {
+  border-top: 1px solid #e1e9f5;
+  margin-top: 32px;
+  padding-top: 28px;
+}
+
+.privacy-section h2 {
+  color: var(--brand-blue-deep);
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: clamp(1.4rem, 2.5vw, 1.75rem);
+  line-height: 1.4;
+  margin: 0 0 18px;
+  scroll-margin-top: 168px;
+}
+
+.privacy-section h3 {
+  color: var(--brand-blue);
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin: 24px 0 12px;
+}
+
+.privacy-section ul {
+  padding-left: 24px;
+  margin: 12px 0 20px;
+}
+
+.privacy-section li {
+  padding-left: 4px;
+  margin-bottom: 6px;
+}
+
+.privacy-section li::marker {
+  color: var(--brand-blue);
+}
+
+.privacy-section:last-child p:last-child {
+  margin-bottom: 0;
+}
+
+.privacy-back:hover,
+.privacy-document a:hover {
+  color: var(--brand-blue-deep);
+}
+
+.privacy-page a:focus-visible,
+.privacy-contents summary:focus-visible,
+.footer-links a:focus-visible {
+  outline: 3px solid #ddb047;
+  outline-offset: 5px;
+  border-radius: 3px;
+}
+
+.footer-links {
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-links a[aria-current="page"] {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+@media (max-width: 780px) {
+  .privacy-contents nav {
+    grid-template-columns: 1fr;
+  }
+
+  .privacy-section h2 {
+    scroll-margin-top: 132px;
+  }
+
+  .privacy-document {
+    border-radius: 18px;
+  }
+}

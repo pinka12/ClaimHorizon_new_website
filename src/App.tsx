@@ -26,6 +26,11 @@ import logo from "./assets/claimhorizon_logo_nobg.png";
 import heroImage from "./assets/hero-vehicle-inspection.jpeg";
 import riskImage from "./assets/preinspection-risk.png";
 import capabilitiesImage from "./assets/core-capabilities.png";
+import PrivacyPolicy from "./PrivacyPolicy";
+import TermsAndConditions from "./TermsAndConditions";
+
+const isPrivacyPolicy = /^\/privacy-policy(?:\/(?:index\.html)?)?$/.test(window.location.pathname);
+const isTermsAndConditions = /^\/terms-and-conditions(?:\/(?:index\.html)?)?$/.test(window.location.pathname);
 
 const web3FormsKey =
   import.meta.env.VITE_WEB3FORMS_ACCESS_KEY ??
@@ -39,6 +44,11 @@ const navItems = [
   { label: "Features", id: "features" },
   { label: "Why Us", id: "why-us" },
   { label: "Contact", id: "contact" },
+];
+
+const legalNavItems = [
+  { label: "Privacy Policy", href: "/privacy-policy/", active: isPrivacyPolicy },
+  { label: "Terms & Conditions", href: "/terms-and-conditions/", active: isTermsAndConditions },
 ];
 
 const reasons = [
@@ -285,6 +295,10 @@ const marketFocus = [
 ];
 
 function scrollToSection(id: string) {
+  if (isPrivacyPolicy || isTermsAndConditions) {
+    window.location.assign(`/#${id}`);
+    return;
+  }
   document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
@@ -362,6 +376,11 @@ export default function App() {
                 {item.label}
               </button>
             ))}
+            {legalNavItems.map((item) => (
+              <a key={item.href} href={item.href} aria-current={item.active ? "page" : undefined}>
+                {item.label}
+              </a>
+            ))}
           </nav>
 
           <button className="topbar-cta desktop-only" onClick={() => scrollToSection("contact")}>
@@ -390,6 +409,16 @@ export default function App() {
                 {item.label}
               </button>
             ))}
+            {legalNavItems.map((item) => (
+              <a
+                key={item.href}
+                href={item.href}
+                aria-current={item.active ? "page" : undefined}
+                onClick={() => setMobileOpen(false)}
+              >
+                {item.label}
+              </a>
+            ))}
             <button
               className="topbar-cta"
               onClick={() => {
@@ -404,6 +433,7 @@ export default function App() {
       </header>
 
       <main>
+        {isPrivacyPolicy ? <PrivacyPolicy /> : isTermsAndConditions ? <TermsAndConditions /> : <>
         <section id="home" className="hero-section">
           <div className="hero-background">
             <div className="hero-grid" />
@@ -752,6 +782,7 @@ export default function App() {
             </div>
           </div>
         </section>
+        </>}
       </main>
 
       <footer className="site-footer">
@@ -775,6 +806,13 @@ export default function App() {
 
         <div className="container footer-bottom">
           <p>(c) {new Date().getFullYear()} ClaimHorizon Pvt Ltd. All rights reserved.</p>
+          <nav className="footer-links" aria-label="Legal">
+            {legalNavItems.map((item) => (
+              <a key={item.href} href={item.href} aria-current={item.active ? "page" : undefined}>
+                {item.label}
+              </a>
+            ))}
+          </nav>
         </div>
       </footer>
     </div>

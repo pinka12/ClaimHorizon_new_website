@@ -1,0 +1,265 @@
+Terms and Conditions
+Effective Date: 10 October 2026
+Last Updated: 10 October 2026
+These Terms and Conditions (“Terms”) govern your access to and use of the ClaimHorizon native mobile applications, web dashboards, website and related services (“Application” or “Services”) operated by ClaimHorizon Pvt. Ltd. (“ClaimHorizon”, “we”, “us” or “our”).
+By downloading, accessing, registering for or using the Application, you agree to these Terms. If you do not agree with these Terms, you must not use the Application.
+1. About ClaimHorizon
+ClaimHorizon provides technology-enabled insurance workflow services, including:
+- AI-assisted vehicle pre-inspection
+- AI-assisted spot survey
+- Insurance claim processing
+- Document and image management
+- Vehicle damage analysis
+- Location-enabled evidence collection
+- Claims workflow coordination
+- Report generation and sharing
+- Role-based dashboards for insurers, garages, insured persons, surveyors, agents and administrators
+ClaimHorizon provides technology and workflow assistance. It does not independently issue insurance policies, approve claims, reject claims, determine legal liability or guarantee claim settlement.
+2. Eligibility
+You may use the Application only if:
+- You are legally capable of entering into a binding agreement
+- You are authorised by your organisation, insurer, garage or other service provider
+- The information provided by you is accurate and complete
+- You comply with all applicable laws and regulations
+The Application is not intended for children under 18 years of age.
+3. Account Registration and Access
+Some features require an account or authorised login.
+You agree to:
+- Provide accurate and updated information
+- Keep your login credentials confidential
+- Not share your account with unauthorised persons
+- Immediately notify ClaimHorizon of suspected unauthorised access
+- Use the Application only for the purpose for which access was granted
+- Ensure that information submitted through your account is lawful and accurate
+You are responsible for all activity conducted through your account unless the activity resulted from a proven security failure attributable to ClaimHorizon.
+ClaimHorizon may suspend or disable an account if it detects misuse, unauthorised access, false information, security risks or violation of these Terms.
+4. Role-Based Dashboards
+The Application may provide different dashboards depending on your role, including:
+- Insured user
+- Garage or repair partner
+- Surveyor
+- Insurance company employee
+- Insurance agent or broker
+- Claims administrator
+- Organisation administrator
+Your access is limited to the cases, information and features authorised for your role. You must not attempt to access, download, modify or disclose information belonging to another user, organisation or claim.
+5. User Responsibilities
+You agree to use the Application responsibly and to:
+- Submit genuine, accurate and complete information
+- Upload documents and images that relate to the relevant vehicle, inspection, survey or claim
+- Follow all capture instructions
+- Provide photographs and videos that are clear and not intentionally manipulated
+- Obtain permission before uploading information belonging to another person
+- Ensure that you have the right to submit documents, images, videos, audio and other content
+- Cooperate with verification, quality-control and investigation requirements
+- Follow applicable insurer, garage and survey instructions
+You must not submit false, misleading, outdated, stolen, manipulated or unauthorised information.
+6. Images, Videos, Documents and Evidence
+The Application may allow you to capture or upload:
+- Vehicle images
+- Damage photographs
+- 360-degree videos
+- RC and policy documents
+- Repair estimates and invoices
+- Inspection and survey forms
+- Voice statements
+- Digital signatures
+- Location and timestamp information
+You remain responsible for ensuring that uploaded content is accurate, lawful and relevant.
+ClaimHorizon may reject, flag, restrict or request resubmission of content that is:
+- Incomplete or unclear
+- Unrelated to the claim or inspection
+- Suspected to be manipulated
+- Reused from another event
+- Inconsistent with submitted information
+- Offensive, unlawful or infringing
+- A threat to Application security
+Uploaded information may be reviewed by AI systems, authorised personnel, insurers, surveyors, garages or other approved participants.
+7. Location Services
+Certain features require device location services to be enabled.
+Location may be used to:
+- Verify where an inspection or spot survey occurred
+- Record the location of evidence collection
+- Provide authorised stakeholders with survey visibility
+- Support field operations and audit trails
+- Help identify inconsistencies or suspicious activity
+You are responsible for enabling location permissions when required. If you disable location access, some Application features may not function properly.
+Location information is processed according to the ClaimHorizon Privacy Policy.
+8. Artificial Intelligence
+The Application may use artificial intelligence, computer vision, document processing and automated rules to assist with:
+- Document extraction
+- Image analysis
+- Vehicle damage identification
+- Damage severity classification
+- Evidence matching
+- Missing-document detection
+- Red-flag identification
+- Claim summaries
+- Workflow routing
+- Report preparation
+AI outputs are indicative and may contain errors. They are not a substitute for professional judgment, policy interpretation, surveyor assessment, insurer approval or legal advice.
+ClaimHorizon does not guarantee that AI will detect every damage, fraud attempt, inconsistency or document issue.
+Final decisions remain with the authorised insurer, surveyor, claim handler or other responsible professional.
+9. No Guarantee of Claim Approval or Settlement
+Use of the Application does not guarantee:
+- Insurance policy issuance
+- Claim acceptance
+- Claim approval
+- Claim settlement
+- Payment of any amount
+- Repair authorisation
+- Surveyor appointment
+- A specific processing time
+- Detection of every fraudulent or inaccurate submission
+All insurance decisions remain subject to the applicable insurance policy, documents, terms, conditions, exclusions, investigation and approval processes.
+10. Human Review and Quality Control
+The Application may include human quality-control, verification, escalation and approval processes.
+ClaimHorizon may:
+- Request additional documents
+- Request clearer images or videos
+- Return a submission for correction
+- Escalate a case for investigation
+- Mark a case as incomplete or suspicious
+- Restrict report generation or sharing until review is completed
+A red flag or automated alert is an investigation signal and does not by itself prove fraud or wrongdoing.
+11. Reports and Outputs
+The Application may generate reports, summaries, annotations, JSON outputs, PDFs and other digital records.
+Reports are generated using information available in the Application at the time of processing. You are responsible for reviewing reports before relying on them.
+ClaimHorizon does not guarantee that every generated report is complete, error-free or suitable for a particular legal, regulatory or commercial purpose.
+Reports must not be altered, misrepresented or presented as independently verified when they have not been reviewed by the authorised professional or organisation.
+12. Garage and Repair Partner Responsibilities
+Garages and repair partners must:
+- Submit genuine vehicle and repair information
+- Upload images and documents relating to the correct vehicle and claim
+- Avoid manipulating or reusing images
+- Maintain proper records of estimates, invoices and repair activity
+- Follow insurer instructions and applicable laws
+- Not access or disclose information outside their authorised assignments
+ClaimHorizon is not responsible for the quality, legality, pricing or performance of repair services provided by any garage or third party.
+13. Insurer and Organisation Responsibilities
+The insurer or organisation controlling a workflow is responsible for:
+- Creating authorised user accounts
+- Assigning roles and access permissions
+- Maintaining accurate policy and claim information
+- Reviewing AI-assisted outputs
+- Making final insurance and claim decisions
+- Complying with applicable insurance, privacy and regulatory obligations
+- Informing users about workflow-specific requirements
+14. Prohibited Activities
+You must not:
+- Use the Application for unlawful or fraudulent activities
+- Submit false, forged, manipulated or misleading information
+- Attempt to bypass location, image or security controls
+- Upload malware, viruses or harmful code
+- Reverse engineer, copy or modify the Application
+- Scrape, harvest or extract data without written permission
+- Access another user’s account or claim
+- Interfere with Application infrastructure
+- Circumvent role-based access controls
+- Use the Application to harass, threaten or harm others
+- Sell, sublicense or commercially exploit the Application without permission
+- Use ClaimHorizon reports to make unauthorised or unlawful decisions
+15. Intellectual Property
+The Application, software, designs, logos, trademarks, workflows, reports, content, databases, interfaces and technology are owned by or licensed to ClaimHorizon.
+You receive a limited, non-exclusive, non-transferable and revocable right to use the Application for authorised business purposes.
+You must not copy, reproduce, distribute, modify, sell, lease, reverse engineer or create derivative works from the Application without prior written permission.
+You retain ownership of documents, images, videos and information submitted by you, subject to the rights required by ClaimHorizon and authorised organisations to operate the Services.
+16. Third-Party Services
+The Application may depend on third-party services, including:
+- Cloud hosting and storage
+- Google location or mapping services
+- Authentication providers
+- AI and document-processing providers
+- Email, SMS, WhatsApp and notification providers
+- Analytics and security services
+- Payment providers
+Third-party services may have separate terms and privacy policies. ClaimHorizon is not responsible for the independent acts, interruptions or policies of third-party providers.
+17. Availability and Service Interruptions
+ClaimHorizon will make reasonable efforts to keep the Services available. However, the Services may be unavailable or interrupted due to:
+- Maintenance
+- Software updates
+- Network failure
+- Cloud or third-party service interruption
+- Device or operating-system problems
+- Cybersecurity incidents
+- Power failure
+- Force majeure events
+- Government action or legal restrictions
+ClaimHorizon does not guarantee uninterrupted, error-free or continuously available access.
+18. Fees and Payments
+Certain features, reports or services may be subject to fees according to the applicable commercial agreement.
+Where payment is required:
+- Fees will be communicated through the applicable workflow or agreement
+- Taxes may apply
+- Payments may be processed through third-party payment providers
+- Fees may not be refundable unless agreed in writing
+- A report or service may remain restricted until payment is successfully confirmed
+Commercial terms agreed separately with an insurer, garage, partner or customer will prevail over general fee-related provisions in these Terms.
+19. Privacy
+Your use of the Application is also governed by the ClaimHorizon Privacy Policy, which explains how we collect, use, store and share personal information, location data, documents, images, videos and other information.
+The Privacy Policy is available at:
+https://www.claimhorizon.co.in/privacy-policy
+20. Suspension and Termination
+ClaimHorizon may suspend, restrict or terminate access if:
+- You violate these Terms
+- You submit false or unlawful information
+- You misuse the Application
+- Your organisation withdraws authorisation
+- Your account creates a security or legal risk
+- Required payments are not completed
+- Suspension is required by law or an authorised organisation
+Upon termination, your right to use the Application will end. Information may continue to be retained where required for legal, regulatory, contractual, audit, security or insurance purposes.
+21. Disclaimers
+To the maximum extent permitted by law:
+- The Application is provided on an “as available” basis
+- AI outputs are not guaranteed to be accurate or complete
+- ClaimHorizon does not provide legal, financial, insurance or repair advice
+- ClaimHorizon does not guarantee claim approval, settlement or payment
+- ClaimHorizon does not guarantee detection of every fraudulent or manipulated submission
+- ClaimHorizon is not responsible for decisions made by insurers, surveyors, garages, agents or other users
+- ClaimHorizon is not responsible for inaccurate information submitted by users or third parties
+22. Limitation of Liability
+To the maximum extent permitted by applicable law, ClaimHorizon will not be liable for indirect, incidental, special, consequential or punitive losses arising from:
+- Use or inability to use the Application
+- Loss of data or business opportunity
+- Claim rejection or settlement delay
+- Repair costs or service-provider conduct
+- Inaccurate information submitted by users
+- AI-assisted output or automated alerts
+- Third-party service failure
+- Unauthorised access caused by the user’s failure to protect credentials
+Nothing in these Terms limits liability that cannot legally be excluded.
+23. Indemnity
+You agree to indemnify and hold harmless ClaimHorizon, its directors, employees, officers, contractors and service providers from claims, losses, damages, penalties, expenses and legal costs arising from:
+- Your violation of these Terms
+- Your misuse of the Application
+- Your unauthorised access
+- Your submission of unlawful, false or infringing information
+- Your violation of another person’s privacy or intellectual-property rights
+- Your actions as a garage, insurer, agent, surveyor or other authorised user
+24. Changes to These Terms
+ClaimHorizon may update these Terms from time to time.
+Updated Terms will be published with a revised effective date. Where required, additional notice may be provided.
+Your continued use of the Application after the updated Terms become effective means that you accept the revised Terms, subject to any consent requirement under applicable law.
+25. Governing Law and Jurisdiction
+These Terms will be governed by the laws of India.
+Subject to applicable law, disputes relating to the Application or these Terms will be subject to the jurisdiction of the courts having authority over ClaimHorizon’s registered or principal place of business.
+Before publishing, ClaimHorizon should insert its confirmed registered office address and specify the final jurisdiction after legal review.
+26. Contact Us
+For questions regarding these Terms, contact:
+ClaimHorizon Pvt. Ltd.
+Email: info@claimhorizon.co.in
+Phone: +91 7340673101
+Website: https://www.claimhorizon.co.in/
+Please include your name, organisation, registered email or mobile number and relevant claim, inspection or survey reference, if applicable.
+Important Legal Note
+This is a business-ready Terms and Conditions draft prepared for the ClaimHorizon Application. It should be reviewed by a qualified lawyer before publication, especially for:
+- Insurance regulatory requirements
+- Indian data-protection obligations
+- Consumer-protection requirements
+- Limitation of liability
+- Payment and refund terms
+- Contractual responsibilities of insurers and garages
+- Applicable jurisdiction
+- AI-related disclosures
+- Exact third-party service providers and data flows

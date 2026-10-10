@@ -1,0 +1,191 @@
+Privacy Policy
+Effective Date: 10 October 2026
+Last Updated: 10 October 2026
+This Privacy Policy explains how ClaimHorizon Pvt. Ltd. (“ClaimHorizon”, “we”, “us” or “our”) collects, uses, stores, shares and protects information when you use the ClaimHorizon native mobile applications, web dashboards, website and related services (“Application” or “Services”).
+ClaimHorizon provides AI-assisted insurance services, including vehicle pre-inspection, spot surveys, claims processing, document management, image and video evidence collection, report generation and workflow coordination.
+The Application may provide dedicated dashboards to insured persons, garages, surveyors, insurance companies, agents, administrators and other authorised users.
+1. Information We Collect
+1.1 Account and User Information
+We may collect:
+- Name, mobile number and email address
+- Login credentials and user ID
+- Organisation, branch, garage, insurer or surveyor details
+- User role and access permissions
+- Authentication and support records
+- Information required to create and manage your dashboard
+1.2 Insurance, Vehicle and Claim Information
+Depending on the workflow, we may collect:
+- Policy, proposal, inspection and claim details
+- Claim number, policy number and case references
+- Vehicle registration number, make, model and year
+- Chassis number, VIN, engine number and odometer information
+- RC, prior policy and other insurance documents
+- Repair estimates, invoices and garage documents
+- Survey reports, statements, signatures and supporting records
+1.3 Images, Videos, Audio and Documents
+The Application may collect information uploaded or captured through the device, including:
+- Vehicle photographs and damage images
+- 360-degree or walkaround inspection videos
+- Images of RC, policy, invoices and other documents
+- Images of repair work and accident locations
+- Voice notes and owner statements
+- Digital signatures
+- Metadata associated with uploaded files, including timestamps and device information
+2. Device Permissions
+The Application may request access to the following device features, depending on the user’s role and workflow:
+- Camera, for capturing images and videos
+- Photos or media storage, for selecting files
+- Microphone, for voice notes and audio statements
+- Location services, for recording the location of evidence collection
+- Notifications, for task and workflow updates
+- Internet and network access, for securely transmitting information
+You may manage these permissions through your device settings. Disabling certain permissions may prevent some Application features from functioning correctly.
+3. Location Information
+The Application may automatically collect your device location while you are using inspection, spot survey, claims or upload-related features.
+Location information may be used to:
+- Record where images, videos or documents were captured
+- Verify the location of an inspection or spot survey
+- Provide authorised users with live or recent survey-location visibility
+- Support field coordination and survey monitoring
+- Create an audit trail for evidence submission
+- Detect inconsistencies or suspicious activity
+- Improve the security and reliability of the Services
+Location may be obtained through device location services, including Google location services or other operating-system location providers.
+The Application is not intended to continuously track your location when no relevant feature is active. The exact behaviour may depend on the Application version, device permissions and workflow configured by the authorised insurance company or organisation.
+4. How We Use Information
+We may use collected information to:
+- Create and manage user accounts and role-based dashboards
+- Provide access to insurer, garage, insured, surveyor and administrator workflows
+- Receive, store and organise documents, images, videos and other evidence
+- Process pre-inspections, spot surveys and insurance claims
+- Coordinate communication between authorised stakeholders
+- Generate reports, summaries and workflow outputs
+- Verify vehicle, document and claim information
+- Detect image manipulation, repeated images, missing evidence and inconsistencies
+- Assist with damage assessment and severity classification
+- Provide AI-assisted extraction, matching, analysis and recommendations
+- Maintain application security and prevent unauthorised use
+- Respond to support requests and service communications
+- Improve Application performance and reliability
+- Comply with legal, regulatory, contractual and security requirements
+5. Artificial Intelligence and Automated Processing
+The Application may use artificial intelligence, computer vision, document intelligence and rules-based technologies to process documents, images, videos, audio, vehicle details and claim information.
+AI-assisted outputs may include:
+- Extracted document information
+- Vehicle and damage observations
+- Image annotations
+- Damage and severity indicators
+- Missing-document alerts
+- Red flags and inconsistencies
+- Claim summaries and recommendations
+- Workflow classifications and routing
+AI results are provided as assistance and may contain errors. AI results do not independently constitute a final decision that a claim is fraudulent, payable, rejected or approved.
+Authorised insurers, surveyors, claim handlers or other responsible professionals remain responsible for reviewing information and making final decisions where required.
+6. Role-Based Access and Information Sharing
+ClaimHorizon uses role-based access controls. Users may only access information relevant to their organisation, role, assignment or authorised workflow.
+Depending on the matter, information may be shared with:
+- The relevant insurance company
+- The insured person
+- Authorised garages and repair partners
+- Surveyors and claim handlers
+- Insurance agents and brokers
+- Claims administrators
+- Technology and hosting providers
+- Communication, storage, analytics and security providers
+- Professional advisers, regulators or law-enforcement authorities where legally required
+ClaimHorizon does not sell personal information for monetary consideration. Service providers are permitted to process information only for authorised business, technical, security or operational purposes.
+7. Third-Party Services
+ClaimHorizon may use third-party services for:
+- Cloud hosting and storage
+- Authentication and account management
+- AI and document processing
+- Maps and location services
+- Email, SMS, WhatsApp and push notifications
+- Analytics and application monitoring
+- Security and fraud-prevention services
+- Payment and billing services, where applicable
+Third-party providers may process information on behalf of ClaimHorizon and may have separate privacy policies.
+Where Google location or mapping services are used, location data may also be processed according to Google’s applicable terms and privacy policies.
+8. Cookies and Similar Technologies
+The website and web dashboards may use cookies, software development kits, pixels, local storage and similar technologies for:
+- Login sessions
+- Security
+- User preferences
+- Analytics
+- Performance monitoring
+- Service functionality
+Where required by law, ClaimHorizon will obtain consent before using non-essential tracking technologies.
+9. Data Retention
+ClaimHorizon retains information only for as long as reasonably necessary for:
+- Providing the Services
+- Completing insurance and claims workflows
+- Maintaining audit trails
+- Meeting contractual and legal requirements
+- Resolving disputes
+- Preventing fraud and misuse
+- Maintaining backups and security records
+Retention periods may vary depending on the insurer, claim type, organisation, contractual requirement and applicable law.
+When information is no longer required, it may be deleted, anonymised or securely archived.
+Some information may not be deleted immediately where retention is required by law, regulation, court order, audit requirement or legitimate business necessity.
+10. Data Security
+ClaimHorizon uses reasonable technical, physical and organisational safeguards to protect information, including:
+- Role-based access control
+- Authentication and authorisation controls
+- Secure transmission
+- Restricted administrative access
+- Activity logging and monitoring
+- Backup and recovery procedures
+- Access review and account management
+- Security controls for stored evidence
+However, no internet transmission or electronic storage system can be guaranteed to be completely secure.
+11. International Data Transfers
+ClaimHorizon or its service providers may process information in India or other countries, depending on the infrastructure and service providers used.
+Where information is transferred across borders, ClaimHorizon will apply safeguards required by applicable law and appropriate contractual and technical controls.
+12. Your Rights and Choices
+Subject to applicable law and identity verification, you may request:
+- Access to your personal information
+- Correction or updating of inaccurate information
+- Deletion of personal information
+- Withdrawal of consent where processing is based on consent
+- Information about how your data is processed
+- Restriction of certain processing, where legally applicable
+You may also disable camera, microphone, location, storage and notification permissions through your device settings.
+Disabling permissions or uninstalling the Application may prevent certain features from working. Uninstalling the Application does not automatically delete information already submitted or retained for legitimate purposes.
+13. Data Deletion
+You may request deletion of your account or personal information by contacting ClaimHorizon.
+After verifying your identity and authority, ClaimHorizon will process the request within the timeframe required by applicable law.
+Information may be retained where required for:
+- Legal or regulatory compliance
+- Insurance records
+- Fraud investigation
+- Dispute resolution
+- Audit requirements
+- Contractual obligations
+- Security and prevention of misuse
+14. Children’s Privacy
+The Services are intended for insurance, business and operational users and are not directed to children under 18 years of age.
+ClaimHorizon does not knowingly collect personal information from children for independent use of the Services. If you believe that a child has provided information to ClaimHorizon, please contact us.
+15. Marketing and Communications
+ClaimHorizon may send service-related communications, including:
+- Login and account notifications
+- Inspection and survey updates
+- Claim and task notifications
+- Security alerts
+- Support communications
+- Important policy or service notices
+Marketing communications will be sent only where permitted by applicable law. You may opt out of non-essential marketing communications.
+16. Data Breach Notification
+If ClaimHorizon becomes aware of a data breach affecting personal information, we will investigate and take reasonable steps to contain and address it.
+Where required by applicable law, we will notify affected users, organisations or authorities about the breach and recommended protective measures.
+17. Changes to This Privacy Policy
+ClaimHorizon may update this Privacy Policy from time to time.
+The updated version will be published with a revised effective date. Where required by law, ClaimHorizon will provide additional notice or obtain consent before material changes take effect.
+18. Contact Us
+For privacy questions, data access, correction, deletion or consent-withdrawal requests, contact:
+ClaimHorizon Pvt. Ltd.
+Email: info@claimhorizon.co.in
+Phone: +91 7340673101
+Website: https://www.claimhorizon.co.in/
+When contacting us, please include your name, registered mobile number or email address, organisation, user role and relevant claim, inspection or survey reference, if available.
+19. Important Notice
+This Privacy Policy should be reviewed by qualified legal counsel before publication. ClaimHorizon should also verify its actual cloud providers, AI providers, data-storage locations, retention periods, location-processing behaviour, consent screens and formally appointed privacy or grievance contact.
